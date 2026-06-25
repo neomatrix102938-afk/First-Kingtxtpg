@@ -1,3 +1,10 @@
+RUN THIS CODE IN TERMINAL
+windows: python main.py
+linux/macOS: python3 main.py
+
+
+
+
 import random
 
 # Global list of items allowed for attacking
